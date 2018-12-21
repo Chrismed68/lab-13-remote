@@ -1,0 +1,90 @@
+body 
+{
+background-color: coral;
+background-image: url("https://cdn.vox-cdn.com/thumbor/GBrFUG5Aultm4-DSJJus6OJjuVc=/0x0:1280x504/1200x480/filters:focal(538x150:742x354)/cdn.vox-cdn.com/uploads/chorus_image/image/62605999/Smash_Ultimate.0.jpg");
+background-repeat: no-repeat;
+background-size: 1680px 450px;
+}
+.header
+{font-family: sans-serif;
+ text-shadow: 2px 2px #000000;
+ position: relative;
+ left: 45px;
+ color: red;
+ font-size: 3em;  
+}
+.title
+{
+font-family: sans-serif;
+ position: relative;
+ left: 390px;
+ color: black;
+ font-size: 1.8em; 
+ top: 330px; 
+}
+.scource
+{
+font-family: sans-serif;
+ position: relative;
+ color: black;
+ font-size: .9em; 
+ top: 280px; 
+}
+.itemtitle
+{
+font-family: sans-serif;
+ position: relative;
+ left: 520px;
+ color: black;
+ font-size: 1.8em; 
+ top: 550px; 
+}
+.active 
+{
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    left: 455px;
+    top: 250px;
+}
+.links
+{
+ font-family: sans-serif;
+ position: relative;
+ left: 500px;
+ top: 235px;   
+}
+.reddd 
+{
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    left: 415px;
+    top: 260px;
+}
+.blue 
+{
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    left: 615px;
+    top: 117px;
+}
+.items
+{
+ font-family: sans-serif;
+ position: relative;
+ left: 370px;
+ color: black;
+ font-size: 1em; 
+ top: 200px; 
+ border-style: ridge;
+    background-color: tan;
+    border-width: 7px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: red;
+}
